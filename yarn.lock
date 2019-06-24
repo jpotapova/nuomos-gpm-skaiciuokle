@@ -7116,6 +7116,13 @@ postcss-selector-parser@^6.0.0:
     indexes-of "^1.0.1"
     uniq "^1.0.1"
 
+postcss-sorting@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/postcss-sorting/-/postcss-sorting-5.0.0.tgz#4e4ce0a554c17d78d4287f08f792db8992bf62b5"
+  dependencies:
+    lodash "^4.17.11"
+    postcss "^7.0.14"
+
 postcss-svgo@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/postcss-svgo/-/postcss-svgo-4.0.2.tgz#17b997bc711b333bab143aaed3b8d3d6e3d38258"
@@ -8545,6 +8552,14 @@ stylelint-config-prettier@5.2.0:
 stylelint-config-recommended@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/stylelint-config-recommended/-/stylelint-config-recommended-2.2.0.tgz#46ab139db4a0e7151fd5f94af155512886c96d3f"
+
+stylelint-order@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/stylelint-order/-/stylelint-order-3.0.0.tgz#ec44afb93a3183dcf8c91540d4486de776250506"
+  dependencies:
+    lodash "^4.17.11"
+    postcss "^7.0.14"
+    postcss-sorting "^5.0.0"
 
 stylelint-prettier@1.1.1:
   version "1.1.1"
