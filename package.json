@@ -22,7 +22,7 @@
     "last 1 version"
   ],
   "devDependencies": {
-    "eslint": "5.3.0",
+    "eslint": "^6.0.1",
     "eslint-config-airbnb": "17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
